@@ -37,13 +37,6 @@ Simon Game is a fun and interactive memory-based game built using **HTML**, **CS
 
 ---
 
-## 📂 Folder Structure
-simon-game/
-├── index.html        # Main HTML file (UI structure)
-├── style.css         # CSS file for styling and animations
-├── app.js         # JavaScript file containing the game logic
-└── README.md         # Project documentation and instructions
-
 ## 💻 How to Use
 
 1. Clone this repository:
