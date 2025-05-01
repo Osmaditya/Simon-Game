@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 8px solid black;
+    margin: 2rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: rgb(9, 9, 233)
+}
+
+.green {
+    background-color: rgb(55, 220, 55)
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+/* when button is flashed by game */
+
+.compFlash {
+    background-color: #fff;
+}
+
+/* when button is flashed by user */
+.userFlash {
+    background-color: #0c020a;
+}
