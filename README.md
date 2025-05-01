@@ -33,9 +33,26 @@ Simon Game is a fun and interactive memory-based game built using **HTML**, **CS
 
 ## 📸 Preview
 
-![Simon Game Screenshot](preview.png) <!-- You can replace this with your image -->
+![Simon Game Screenshot](simon-img.png) 
 
 ---
 
 ## 📂 Folder Structure
+simon-game/
+├── index.html        # Main HTML file (UI structure)
+├── style.css         # CSS file for styling and animations
+├── app.js         # JavaScript file containing the game logic
+└── README.md         # Project documentation and instructions
 
+## 💻 How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Osmaditya/Simon-Game.git
+
+2. Navigate to the project directory:
+    ```bash
+    cd Simon-Game
+3. Open index.html in your browser to view the page.
+
+⚡ No installation required — just HTML, CSS, and JavaScript!
